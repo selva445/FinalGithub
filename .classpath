@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/miglayout-swing.jar" sourcepath="lib/miglayout-swing-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Fram6/lib/miglayout-swing-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/miglayout-core.jar" sourcepath="lib/miglayout-core-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Fram6/lib/miglayout-core-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/selvakumar.c/Downloads/Fram6/Fram6 - Copy/src/main/java/Jar/sikulix.jar"/>
+	<classpathentry kind="lib" path="C:/Users/selvakumar.c/Downloads/Fram6/Fram6 - Copy/src/main/java/Jar/sikulixapi.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
